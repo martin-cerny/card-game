@@ -1,0 +1,14 @@
+{
+    "name": "vendor/kurt-geiger",
+    "description": "Description of project KurtGeiger.",
+    "authors": [
+        {
+            "name": "Black",
+            "email": "cerny.mrtn@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "4.3.5",
+        "phpunit/phpunit-skeleton-generator": "dev-master"
+    }
+}
